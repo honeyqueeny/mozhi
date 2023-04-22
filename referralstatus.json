@@ -1,1 +1,57 @@
 
+{"referstatus":[
+    {
+        "refer_userid": "mohan256@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "pending",
+        "referred_on": " 21-Feb-2023"
+    },
+    {
+        "refer_userid": "karthik32800@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "Cancelled",
+        "referred_on": "02-Feb-2023"
+    },
+    {
+        "refer_userid": "sruthi197666@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "Approved",
+        "referred_on": " 05-Feb-2023"
+    },
+
+    {
+        "refer_userid": "priyasri2188@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "pending",
+        "referred_on": " 07-Feb-2023"
+    },
+
+    {
+        "refer_userid": "mehasri2333@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "Cancelled",
+        "referred_on": " 08-Feb-2023"
+    },
+
+    {
+        "refer_userid": "mohan256@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "Approved",
+        "referred_on": " 20-Feb-2023"
+    },
+    {
+        "refer_userid": "priyamohan2788@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "pending",
+        "referred_on": " 20-Feb-2023"
+    },
+    {
+        "refer_userid": "krithika278@gmail.com",
+        "refer_amount": "30",
+        "refer_status": "Cancelled",
+        "referred_on": " 20-Feb-2023"
+    }
+
+]
+
+}
